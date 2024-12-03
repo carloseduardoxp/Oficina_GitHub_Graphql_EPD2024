@@ -1,0 +1,254 @@
+PR URL,PR Title,PR createdAt,PR mergedAt,stars,fork,language
+https://github.com/Mudlet/Mudlet/pull/7123,Fix a crash when double-clicking on a word to select it,2024-02-07T19:29:39Z,2024-04-25T15:25:07Z,740,False,C++
+https://github.com/Mudlet/Mudlet/pull/7120,Fix: prevent an out of bounds crash in copy(),2024-02-03T19:46:47Z,2024-02-17T17:04:04Z,740,False,C++
+https://github.com/HBO-i/ictresearchmethods.nl/pull/230,Update static-program-analysis.md,2024-04-15T14:58:37Z,2024-07-30T19:06:25Z,9,False,Svelte
+https://github.com/LIDR-academy/AI4Devs-intro-202404/pull/96,[María Pizarro Cuevas] Solved videogame,2024-04-22T07:13:16Z,2024-04-22T07:41:44Z,1,False,JavaScript
+https://github.com/sign-language-processing/sign-language-processing.github.io/pull/38,"Adding ""Querying A Sign Language Dictionary with Videos Using Dense Vector Search"" and add SL Retrieval section",2024-05-16T21:37:55Z,2024-05-22T21:46:11Z,119,False,TeX
+https://github.com/alshedivat/al-folio/pull/2059,Enable specifying explicit list of external posts to display,2024-01-10T05:23:50Z,2024-05-28T00:15:44Z,11416,False,HTML
+https://github.com/possee-org/genai-numpy/pull/13,"Missing Docstring locator, intial version upload.",2024-05-08T23:17:09Z,2024-05-08T23:17:22Z,4,False,Jupyter Notebook
+https://github.com/YongHyeonLeeKr/WebBasic/pull/80,BK-board-crud: [질문필요] @EntityRepository() Deprecicated에 관한 건,2024-05-11T07:32:14Z,2024-05-12T01:08:40Z,0,False,JavaScript
+https://github.com/pollen-robotics/rustypot/pull/50,Adding xm device,2024-04-30T09:42:52Z,2024-05-03T11:28:22Z,17,False,Rust
+https://github.com/open-truss/open-truss/pull/171,Add graphql api to demo-app,2024-05-09T17:08:51Z,2024-05-10T18:31:57Z,8,False,TypeScript
+https://github.com/LIDR-academy/AI4Devs-intro-202404/pull/72,Snake - Team 6,2024-04-16T17:17:51Z,2024-04-17T08:06:33Z,1,False,JavaScript
+https://github.com/UNLV-CS472-672/2024-S-GROUP3-Barbell/pull/225,153 frontend privacy policy screen,2024-04-20T05:34:39Z,2024-04-25T00:01:56Z,4,False,TypeScript
+https://github.com/UNLV-CS472-672/2024-S-GROUP3-Barbell/pull/223,173 / Update createNew and startExisting workout pages,2024-04-19T23:37:18Z,2024-04-23T05:11:33Z,4,False,TypeScript
+https://github.com/fcitx-contrib/fcitx5-macos/pull/113,use weak_ptr to avoid async uaf,2024-04-19T04:59:58Z,2024-04-19T07:24:18Z,134,False,Swift
+https://github.com/UNLV-CS472-672/2024-S-GROUP1-Roadwatch/pull/154,unit test for register page,2024-04-25T04:12:02Z,2024-04-25T06:33:52Z,2,False,TypeScript
+https://github.com/UNLV-CS472-672/2024-S-GROUP1-Roadwatch/pull/162,component unit tests,2024-04-25T06:24:41Z,2024-04-25T06:50:56Z,2,False,TypeScript
+https://github.com/UNLV-CS472-672/2024-S-GROUP5-Munch/pull/107,Edit Post Functionality,2024-04-22T16:02:21Z,2024-04-24T01:15:10Z,1,False,TypeScript
+https://github.com/GhostWriter2023/aa_myFix-client/pull/3,Client-Side App Routing,2024-04-29T15:22:52Z,2024-05-05T12:04:59Z,0,False,JavaScript
+https://github.com/airbytehq/airbyte/pull/36898,`source-faker`: update the car prices and years,2024-04-08T18:10:10Z,2024-04-09T13:37:26Z,16354,False,Python
+https://github.com/UNLV-CS472-672/2024-S-GROUP5-Munch/pull/122,Delete post functionality,2024-04-24T04:05:05Z,2024-04-24T18:14:58Z,1,False,TypeScript
+https://github.com/UNLV-CS472-672/2024-S-GROUP8-CW/pull/112,added comprehensive unit testing to increase code coverage - buildingRegistry,2024-04-20T20:18:02Z,2024-04-23T06:25:46Z,0,False,HTML
+https://github.com/UNLV-CS472-672/2024-S-GROUP7-LifeQuest/pull/134,Added two tests to SettingsPage.test.js,2024-04-23T18:25:38Z,2024-04-23T22:49:36Z,4,False,JavaScript
+https://github.com/UNLV-CS472-672/2024-S-GROUP8-CW/pull/113,added comprehensive unit testing to increase code coverage - cardRegi…,2024-04-20T20:38:07Z,2024-04-23T06:26:13Z,0,False,HTML
+https://github.com/UNLV-CS472-672/2024-S-GROUP7-LifeQuest/pull/113,More Coverage for LoginPage.test.js,2024-04-17T22:43:46Z,2024-04-17T23:20:50Z,4,False,JavaScript
+https://github.com/axolotl-ai-cloud/axolotl/pull/1504,Correctly handle splits for datasets.arrow_dataset.Dataset objects,2024-04-09T15:29:36Z,2024-04-09T20:40:26Z,8029,False,Python
+https://github.com/LIDR-academy/AI4Devs-intro-202404/pull/110,2048,2024-04-23T03:54:19Z,2024-04-23T07:31:12Z,1,False,JavaScript
+https://github.com/UNLV-CS472-672/2024-S-GROUP1-Roadwatch/pull/122,Create Backend for Register Page,2024-04-15T18:27:55Z,2024-04-23T19:41:23Z,2,False,TypeScript
+https://github.com/UNLV-CS472-672/2024-S-GROUP5-Munch/pull/92,Route Directory for Server Organization,2024-04-11T05:16:29Z,2024-04-21T01:33:03Z,1,False,TypeScript
+https://github.com/UNLV-CS472-672/2024-S-GROUP7-LifeQuest/pull/91,Additional login page test,2024-04-15T08:17:16Z,2024-04-16T01:54:44Z,4,False,JavaScript
+https://github.com/UNLV-CS472-672/2024-S-GROUP7-LifeQuest/pull/118,Added a registration page,2024-04-20T12:32:22Z,2024-04-21T00:29:41Z,4,False,JavaScript
+https://github.com/UNLV-CS472-672/2024-S-GROUP3-Barbell/pull/243,40 / Added filter by equipment structure,2024-04-23T21:39:40Z,2024-04-24T02:24:40Z,4,False,TypeScript
+https://github.com/UNLV-CS472-672/2024-S-GROUP8-CW/pull/108,Added fixed tile map generation via 2D array,2024-04-18T10:10:44Z,2024-04-20T18:20:16Z,0,False,HTML
+https://github.com/UNLV-CS472-672/2024-S-GROUP3-Barbell/pull/251,247 -- ci/cd hiccup to between github action and local,2024-04-24T09:10:57Z,2024-04-24T09:14:35Z,4,False,TypeScript
+https://github.com/coderdojo-japan/coderdojo.jp/pull/1592,Make financial URL to be RESTful: `/financial-report` -> `/finances` ,2024-03-22T06:52:39Z,2024-03-22T06:56:12Z,61,False,Ruby
+https://github.com/UNLV-CS472-672/2024-S-GROUP1-Roadwatch/pull/107,Added post component,2024-04-04T23:56:27Z,2024-04-08T21:26:42Z,2,False,TypeScript
+https://github.com/UNLV-CS472-672/2024-S-GROUP7-LifeQuest/pull/64,Testing files for App.js and Home.js,2024-03-27T04:00:35Z,2024-03-27T05:22:43Z,4,False,JavaScript
+https://github.com/UNLV-CS472-672/2024-S-GROUP1-Roadwatch/pull/116,Unit Testing for Marker Endpoints,2024-04-09T23:40:21Z,2024-04-16T18:03:25Z,2,False,TypeScript
+https://github.com/UNLV-CS472-672/2024-S-GROUP3-Barbell/pull/238,224 frontend unselect muscle improve musclegroup page add more exercises,2024-04-22T21:30:35Z,2024-04-23T05:53:27Z,4,False,TypeScript
+https://github.com/UNLV-CS472-672/2024-S-GROUP5-Munch/pull/67,Update pull_request_template.md for AI ,2024-04-02T21:49:11Z,2024-04-04T05:47:37Z,1,False,TypeScript
+https://github.com/UNLV-CS472-672/2024-S-GROUP1-Roadwatch/pull/105,Add Marker server endpoints,2024-04-04T18:51:56Z,2024-04-09T18:56:48Z,2,False,TypeScript
+https://github.com/UNLV-CS472-672/2024-S-GROUP1-Roadwatch/pull/147,Created `ProfileIcon` Component,2024-04-25T00:31:19Z,2024-04-25T05:19:16Z,2,False,TypeScript
+https://github.com/JacobLinCool/collaborative-note/pull/2,feat: Sky is really handsome,2024-03-13T12:32:56Z,2024-03-14T03:26:50Z,0,False,
+https://github.com/UNLV-CS472-672/2024-S-GROUP3-Barbell/pull/258,239 frontend new select exercise based on muscle group page,2024-04-24T23:15:52Z,2024-04-29T22:12:06Z,4,False,TypeScript
+https://github.com/UNLV-CS472-672/2024-S-GROUP3-Barbell/pull/208,Frontend - Addressing Minor Issues with MessageView,2024-04-15T09:05:29Z,2024-04-20T22:24:44Z,4,False,TypeScript
+https://github.com/jerinphilip/slimt/pull/49,Add JNI bindings along with a package,2024-03-17T19:50:37Z,2024-04-11T15:18:38Z,9,False,C++
+https://github.com/UNLV-CS472-672/2024-S-GROUP1-Roadwatch/pull/120,Created CreatePost component,2024-04-11T22:31:08Z,2024-04-15T17:01:57Z,2,False,TypeScript
+https://github.com/UNLV-CS472-672/2024-S-GROUP3-Barbell/pull/229,Frontend - Contact Us Screen,2024-04-21T02:32:01Z,2024-04-25T01:37:25Z,4,False,TypeScript
+https://github.com/flydata/tap-google-analytics/pull/4,[Fix] Changes to Behavior Overview,2024-03-14T02:35:45Z,2024-03-14T06:11:27Z,0,True,Python
+https://github.com/UNLV-CS472-672/2024-S-GROUP5-Munch/pull/111,Refactor Like Button and Add Button Animation,2024-04-23T06:56:42Z,2024-04-24T17:45:22Z,1,False,TypeScript
+https://github.com/FernFinder/UNLV-S24-CS472-Group7/pull/68,Simplified AntonioTessier_ComplexCode,2024-02-27T00:46:12Z,2024-02-27T03:10:05Z,0,False,C++
+https://github.com/thienguen/barbell-labs/pull/74,File to add documentation for task 2.2 of ChatGPT lab,2024-02-25T21:25:37Z,2024-02-25T21:36:50Z,2,False,Python
+https://github.com/FernFinder/UNLV-S24-CS472-Group7/pull/53,Documentation added to AntonioTessier_BlandCppCode (Fixes Issue #52),2024-02-26T22:46:22Z,2024-02-26T22:51:05Z,0,False,C++
+https://github.com/FernFinder/UNLV-S24-CS472-Group7/pull/49,Update AntonioTessier_BlandCppCode to fix Issue #36,2024-02-26T22:20:17Z,2024-02-26T22:38:46Z,0,False,C++
+https://github.com/supabase/supabase/pull/21827,docs: Adding JS example of multiple foreign keys to the same table,2024-03-07T00:28:09Z,2024-03-07T21:21:31Z,74553,False,TypeScript
+https://github.com/flydata/tap-google-analytics/pull/3,[Fix] Review dimensions and metrics for Behavior and Acquisition reports,2024-03-12T06:31:36Z,2024-03-13T02:21:43Z,0,True,Python
+https://github.com/Aligary/CS472_Group1/pull/91,Closes Issue #89,2024-02-27T03:59:41Z,2024-02-27T03:59:46Z,0,False,Python
+https://github.com/39otsu/tdd/pull/1,Implemented changes and improvements,2024-02-27T05:38:58Z,2024-02-27T05:40:03Z,0,True,Roff
+https://github.com/VyProductions/SeniorDesign/pull/95,Chatgpt2.2 Added documentation,2024-02-25T01:33:09Z,2024-02-25T04:30:24Z,0,False,Python
+https://github.com/39otsu/cs472-group4/pull/78,Fix #73,2024-02-26T04:26:28Z,2024-02-26T04:26:37Z,0,False,Python
+https://github.com/thienguen/barbell-labs/pull/83,Cleaner and more concicse code for Miguel_date.cpp from ChatGPT.,2024-02-26T03:22:03Z,2024-02-26T03:22:34Z,2,False,Python
+https://github.com/jkantarek/jkantarek.github.io/pull/2,Toc add main nav,2024-03-01T02:13:13Z,2024-03-01T02:13:30Z,0,False,CSS
+https://github.com/thienguen/barbell-labs/pull/82,Closes Issue #80 - Task 2.2 - Documentation Assistance (Stefano Rubini),2024-02-26T03:19:15Z,2024-02-26T03:20:31Z,2,False,Python
+https://github.com/Aligary/CS472_Group1/pull/80,Added documentation to read function,2024-02-27T03:30:56Z,2024-02-27T03:31:09Z,0,False,Python
+https://github.com/Aligary/CS472_Group1/pull/79,Documentation for Banking Menu,2024-02-27T03:27:45Z,2024-02-27T03:27:56Z,0,False,Python
+https://github.com/39otsu/cs472-group4/pull/73,Added documentation Task 2.2,2024-02-26T02:56:41Z,2024-02-26T02:56:48Z,0,False,Python
+https://github.com/39otsu/cs472-group4/pull/51,Added documentation to code for Alec's Task 2.2,2024-02-25T13:56:41Z,2024-02-25T13:57:09Z,0,False,Python
+https://github.com/munch2024/munch/pull/80,Fixes #79,2024-02-25T07:22:54Z,2024-02-25T07:23:12Z,2,False,Python
+https://github.com/thienguen/barbell-labs/pull/56,Closes Issue #54 - Task 2.1 - Code Refactoring (Stefano Rubini),2024-02-25T00:14:15Z,2024-02-25T01:50:35Z,2,False,Python
+https://github.com/thienguen/barbell-labs/pull/97,95 task 22 documentation assistance daniel,2024-02-27T05:08:09Z,2024-02-27T05:08:19Z,2,False,Python
+https://github.com/thienguen/barbell-labs/pull/58,Closes 55: refactor taylor scatterplotpy,2024-02-25T00:21:32Z,2024-02-25T00:21:39Z,2,False,Python
+https://github.com/munch2024/munch/pull/78,Added 2.1 ChatGPT Fixes,2024-02-25T07:10:44Z,2024-02-25T07:10:56Z,2,False,Python
+https://github.com/UNLV-CS472-672/2024-S-GROUP5-Munch/pull/76,Creating Comment API Routes and Helper Function for Generating unique IDs,2024-04-06T03:10:14Z,2024-04-06T22:26:16Z,1,False,TypeScript
+https://github.com/munch2024/munch/pull/119,fixed issue #118: code refracturing,2024-02-27T04:46:45Z,2024-02-27T04:47:59Z,2,False,Python
+https://github.com/Aligary/CS472_Group1/pull/95,Closes Issue #94,2024-02-27T04:20:10Z,2024-02-27T04:20:20Z,0,False,Python
+https://github.com/thienguen/barbell-labs/pull/62,Closes #61: Add documentation to Taylor_scatterplot.py with new file,2024-02-25T02:24:10Z,2024-02-25T02:24:16Z,2,False,Python
+https://github.com/munch2024/munch/pull/92,Fix #90 - 2.1 Refactored Shipping Cost Program,2024-02-26T03:51:18Z,2024-02-26T03:52:50Z,2,False,Python
+https://github.com/WillianMafra/Super-Gestao/pull/10,"autenticao, middlewares, models e controllers novos",2024-02-22T16:50:11Z,2024-02-22T16:50:38Z,0,False,PHP
+https://github.com/thienguen/barbell-labs/pull/57,Closes Issue #55 - Taylor_scatterplot.py refactor,2024-02-25T00:17:25Z,2024-02-25T00:17:39Z,2,False,Python
+https://github.com/thienguen/barbell-labs/pull/76,Add complex code for task 2.3 of ChatGpt lab,2024-02-25T21:56:37Z,2024-02-26T00:40:30Z,2,False,Python
+https://github.com/munch2024/munch/pull/124,Fixed Issue#123: Understanding Complex Code,2024-02-27T05:11:47Z,2024-02-27T05:11:58Z,2,False,Python
+https://github.com/munch2024/munch/pull/121,fixing issue #120: Documentation,2024-02-27T05:00:34Z,2024-02-27T05:01:24Z,2,False,Python
+https://github.com/39otsu/cs472-group4/pull/49,Task 2.1 Refactoring - Alec Him,2024-02-25T13:32:23Z,2024-02-25T13:33:46Z,0,False,Python
+https://github.com/munch2024/munch/pull/97,Fix #95 - 2.2 Documentation Assistance: Matrix Multiplication Program,2024-02-26T04:33:52Z,2024-02-26T04:33:59Z,2,False,Python
+https://github.com/thienguen/barbell-labs/pull/91,A* Algorithm + Recommendation from ChatGPT on heuristic function,2024-02-27T01:10:36Z,2024-02-27T01:10:40Z,2,False,Python
+https://github.com/Aligary/CS472_Group1/pull/75,Refactor Bank Menu ,2024-02-27T02:48:13Z,2024-02-27T02:48:55Z,0,False,Python
+https://github.com/Aligary/CS472_Group1/pull/51,Fix code duplication in runTests.sh,2024-02-20T22:25:06Z,2024-02-20T22:25:58Z,0,False,Python
+https://github.com/thienguen/barbell-labs/pull/89,Adding documentation to Miguel_fib.cpp,2024-02-26T23:14:51Z,2024-02-26T23:14:58Z,2,False,Python
+https://github.com/munch2024/munch/pull/64,Fixes #61 ,2024-02-24T03:15:27Z,2024-02-24T03:20:33Z,2,False,Python
+https://github.com/UNLV-CS472-672/2024-S-GROUP5-Munch/pull/47,React Query Set Up,2024-03-27T04:25:30Z,2024-04-03T04:40:51Z,1,False,TypeScript
+https://github.com/GNAR1ZARD/Group8/pull/76,chatGPT refactoring: Added Documentation to KNN Snippet,2024-02-26T11:48:29Z,2024-02-26T11:48:55Z,0,False,C#
+https://github.com/GNAR1ZARD/Group8/pull/51,Add complexCode.py,2024-02-24T04:19:58Z,2024-02-24T04:20:08Z,0,False,C#
+https://github.com/Aligary/CS472_Group1/pull/45,Inefficency issue for calculate_total_price,2024-02-20T17:10:45Z,2024-02-20T17:11:00Z,0,False,Python
+https://github.com/Ditectrev/Microsoft-Azure-AZ-900-Microsoft-Azure-Fundamentals-Practice-Tests-Exams-Questions-Answers/pull/17,Update README.md,2024-02-17T13:40:08Z,2024-02-17T13:56:34Z,209,False,
+https://github.com/munch2024/munch/pull/99,Fix #98 - 2.2 Understanding Complex Code: Merge Sort Program,2024-02-26T04:57:46Z,2024-02-26T04:57:56Z,2,False,Python
+https://github.com/munch2024/munch/pull/82,Used ChatGPT to rewrite lines of code because of complexity,2024-02-25T07:33:48Z,2024-02-25T07:34:11Z,2,False,Python
+https://github.com/thienguen/barbell-labs/pull/102,Task 2.3: Understanding Complex Code,2024-02-27T06:35:24Z,2024-02-27T06:35:35Z,2,False,Python
+https://github.com/Aligary/CS472_Group1/pull/88,Simplifying Complex Login Code Snippet,2024-02-27T03:52:29Z,2024-02-27T03:52:40Z,0,False,Python
+https://github.com/munch2024/munch/pull/66,Fixes #65,2024-02-24T03:58:41Z,2024-02-25T19:17:53Z,2,False,Python
+https://github.com/Aligary/CS472_Group1/pull/49,Complex algorithm expansion for readability,2024-02-20T17:58:13Z,2024-02-20T17:58:42Z,0,False,Python
+https://github.com/AlphabetWolf/tdd/pull/2,Update workflow.yml,2024-02-13T22:33:25Z,2024-02-13T22:33:32Z,0,True,Roff
+https://github.com/Aligary/CS472_Group1/pull/55,Complex algorithm improved for readability and increased clarity,2024-02-21T20:26:05Z,2024-02-21T20:26:26Z,0,False,Python
+https://github.com/munch2024/munch/pull/60,Fixes #59,2024-02-24T02:29:52Z,2024-02-24T03:07:45Z,2,False,Python
+https://github.com/AlphabetWolf/2DRogueLikeUnityGame/pull/3,Update task2.py,2024-02-13T21:44:08Z,2024-02-13T21:44:19Z,0,True,Python
+https://github.com/AlphabetWolf/2DRogueLikeUnityGame/pull/2,Update task2_1.py,2024-02-13T21:00:11Z,2024-02-13T21:00:58Z,0,True,Python
+https://github.com/Aligary/CS472_Group1/pull/67,Refactor code segment to improve understandability,2024-02-25T09:19:43Z,2024-02-25T09:19:50Z,0,False,Python
+https://github.com/GNAR1ZARD/Group8/pull/78,ChatGPT Refactoring: Modifying Complex A* Algorithm for Readability,2024-02-26T14:11:49Z,2024-02-26T14:12:15Z,0,False,C#
+https://github.com/thienguen/barbell-labs/pull/87,Task 2.1: Code Refactoring - Daniel,2024-02-26T20:59:48Z,2024-02-26T21:01:11Z,2,False,Python
+https://github.com/Aligary/CS472_Group1/pull/93,Clearification of function using ChatGPT,2024-02-27T04:05:59Z,2024-02-27T04:06:25Z,0,False,Python
+https://github.com/Aligary/CS472_Group1/pull/76,Refactored code from the readfile function,2024-02-27T02:49:39Z,2024-02-27T02:49:48Z,0,False,Python
+https://github.com/thienguen/barbell-labs/pull/66,64 understanding complex code taylors personal website highlightbackground file,2024-02-25T09:54:32Z,2024-02-25T09:54:37Z,2,False,Python
+https://github.com/thienguen/barbell-labs/pull/65,Closes #64: ChatGPT generated comments for clarity on Taylor_HighlightBackground.tsx,2024-02-25T09:53:54Z,2024-02-25T09:53:59Z,2,False,Python
+https://github.com/Aligary/CS472_Group1/pull/47,Documentation issue fix for _hbd async function,2024-02-20T17:30:05Z,2024-02-20T17:30:11Z,0,False,Python
+https://github.com/munch2024/munch/pull/53,Fixes Issue #52,2024-02-23T02:08:16Z,2024-02-23T02:20:12Z,2,False,Python
+https://github.com/GNAR1ZARD/Group8/pull/50,Add documentationAssistance.py,2024-02-24T04:00:08Z,2024-02-24T04:00:28Z,0,False,C#
+https://github.com/koyomi7/2DRogueLikeUnityGame/pull/10,This PR is to show the process of ChatGPT improving the code ,2024-02-12T05:10:46Z,2024-02-12T05:13:51Z,0,True,Python
+https://github.com/munch2024/munch/pull/75,Fixes #74,2024-02-25T04:57:26Z,2024-02-25T05:28:32Z,2,False,Python
+https://github.com/VyProductions/SeniorDesign/pull/82,Added ChatGPT suggestions for the complex TylerGuthrie_josephusProblem.py,2024-02-23T00:47:06Z,2024-02-23T01:16:47Z,0,False,Python
+https://github.com/noodaj/fake-munch/pull/5,Documentation added for 2870,2024-02-14T21:58:11Z,2024-02-14T21:59:02Z,0,True,Python
+https://github.com/munch2024/munch/pull/69,Fixes #68,2024-02-24T06:01:02Z,2024-02-25T04:18:50Z,2,False,Python
+https://github.com/Intensifiesx/2DRogueLikeUnityGame/pull/71,Adding documentation to reverse linked list for better clarity and understanding. Closes #70,2024-02-20T07:54:40Z,2024-02-20T07:55:17Z,5,False,Python
+https://github.com/munch2024/munch/pull/55,Fixes #54,2024-02-23T02:48:40Z,2024-02-23T06:01:28Z,2,False,Python
+https://github.com/Aligary/CS472_Group1/pull/63,Refactor factorial function to use a loop,2024-02-25T08:27:05Z,2024-02-25T08:30:22Z,0,False,Python
+https://github.com/VyProductions/SeniorDesign/pull/89,Refactored code snippet using chatGPT suggestions,2024-02-24T17:54:39Z,2024-02-25T04:27:11Z,0,False,Python
+https://github.com/munch2024/munch/pull/57,Fixes #56,2024-02-23T08:18:00Z,2024-02-23T08:26:57Z,2,False,Python
+https://github.com/noodaj/fake-munch/pull/3,Fixed solution for 2870,2024-02-14T05:29:57Z,2024-02-14T05:43:39Z,0,True,Python
+https://github.com/KingJordan152/tdd/pull/1,Updated Workflow Using ChatGPT,2024-02-26T06:05:08Z,2024-02-26T06:05:17Z,0,True,Roff
+https://github.com/winterjung/blog/pull/30,Add 404 page with recent posts,2024-02-07T13:53:16Z,2024-02-07T13:53:59Z,8,False,JavaScript
+https://github.com/detekt/detekt/pull/5937,Potential new rule: DoubleNegativeLambda,2023-03-24T23:18:18Z,2023-04-06T13:23:21Z,6311,False,Kotlin
+https://github.com/Aligary/CS472_Group1/pull/65,Update documentation for the fibonacci function,2024-02-25T08:58:14Z,2024-02-25T08:58:33Z,0,False,Python
+https://github.com/noodaj/fake-munch/pull/7,"refactor: used ChatGPT to rewrite line of code bc of complexity, fixes #6",2024-02-15T07:26:28Z,2024-02-15T07:28:38Z,0,True,Python
+https://github.com/thienguen/barbell-labs/pull/86,Added Stefano_complexCode.cpp,2024-02-26T17:50:33Z,2024-02-26T18:10:55Z,2,False,Python
+https://github.com/munch2024/munch/pull/85,Fixes #84,2024-02-25T19:55:56Z,2024-02-25T21:43:02Z,2,False,Python
+https://github.com/coderberry/forecast/pull/2,Part 1: Core Structure,2024-03-28T18:55:01Z,2024-03-28T20:06:03Z,0,False,Ruby
+https://github.com/Aligary/CS472_Group1/pull/56,Refactoring Personal Script Using ChatGPT,2024-02-22T04:49:07Z,2024-02-22T04:52:20Z,0,False,Python
+https://github.com/ZapriteApp/zaprite-for-woocommerce/pull/26,Wordpress Plugin Submission Review fixes,2024-02-18T23:24:50Z,2024-02-19T08:48:30Z,1,False,PHP
+https://github.com/UNLV-CS472-672/2024-S-GROUP7-LifeQuest/pull/38,Added base functionality to Quests page,2024-03-21T21:16:28Z,2024-03-21T22:01:20Z,4,False,JavaScript
+https://github.com/nuintee/doodle-calendar/pull/1,実装,2024-03-01T16:34:57Z,2024-03-10T06:39:39Z,0,False,TypeScript
+https://github.com/altive/handbook/pull/77,fix: Algoliaの検索を有効にするためのindexNameを追加,2024-02-23T07:44:03Z,2024-02-23T07:45:06Z,3,False,HTML
+https://github.com/testsigmahq/testsigma-docs/pull/349,[DRAFT] Documentation on Runtime Variable Selection changed behaviour.,2024-01-23T08:26:53Z,2024-01-24T04:46:06Z,7,False,JavaScript
+https://github.com/Aligary/CS472_Group1/pull/72,Refactored Complex Draw Function,2024-02-26T05:32:45Z,2024-02-26T05:32:54Z,0,False,Python
+https://github.com/VyProductions/SeniorDesign/pull/74,Providing better readability to my program through comments and documentation.,2024-02-20T03:57:06Z,2024-02-20T18:47:49Z,0,False,Python
+https://github.com/Aligary/CS472_Group1/pull/70,Added Documentation to Leetcode Solution,2024-02-25T23:17:53Z,2024-02-25T23:18:31Z,0,False,Python
+https://github.com/badass-courses/course-builder/pull/83,feat: content metadata to represent content pieces,2024-02-27T20:15:10Z,2024-02-27T22:17:23Z,372,False,TypeScript
+https://github.com/PickNikRobotics/moveit_studio_ur_ws/pull/220,Fix schedule problem,2024-02-22T06:49:37Z,2024-02-25T11:22:14Z,22,False,C++
+https://github.com/VyProductions/SeniorDesign/pull/70,provides more documentation on code snippet,2024-02-20T01:54:06Z,2024-02-20T18:47:01Z,0,False,Python
+https://github.com/myakiju/dataverse/pull/1,🌱 creates a dataset with plants info,2024-01-17T14:58:43Z,2024-01-17T15:00:10Z,0,False,JavaScript
+https://github.com/VyProductions/SeniorDesign/pull/57,Updated my change file with ChatGPT's refactoring changes.,2024-02-14T23:41:50Z,2024-02-14T23:55:13Z,0,False,Python
+https://github.com/UNLV-CS472-672/2024-S-GROUP7-LifeQuest/pull/88,Added a bottom GUI and Quest Menu with some starting quest,2024-04-13T04:16:02Z,2024-04-15T19:30:11Z,4,False,JavaScript
+https://github.com/faker-js/faker/pull/2658,infra: use text eol=lf,2024-02-10T08:53:13Z,2024-02-11T00:57:01Z,13089,False,TypeScript
+https://github.com/mzogheib/quoll/pull/184,feat(client-mobile): update Android splash screen,2024-01-07T00:50:18Z,2024-01-07T00:58:50Z,3,False,TypeScript
+https://github.com/betagouv/beta.gouv.fr/pull/16244,Optimisation configuration Nginx,2023-11-02T10:14:06Z,2024-01-08T19:26:44Z,249,False,Jupyter Notebook
+https://github.com/angr/angr/pull/4403,Rewrite dfs_back_edges to be iterative,2024-01-03T12:27:51Z,2024-01-10T15:04:57Z,7621,False,Python
+https://github.com/SerenityOS/serenity/pull/22213,"AK: Print timestamp, process name, and pid on all platforms",2023-12-08T20:54:40Z,2023-12-12T17:11:24Z,30794,False,C++
+https://github.com/agentcoinorg/evo.ninja/pull/629,fix: on mobile manually set input font-size to avoid needless zooming,2023-12-18T22:55:55Z,2023-12-19T00:14:31Z,1077,False,TypeScript
+https://github.com/linexjlin/GPTs/pull/48,Create Pepegen.md,2023-12-19T16:33:17Z,2023-12-20T04:22:23Z,28895,False,
+https://github.com/biziro3/tema_an2semestru1_PYTHON/pull/1,Create alerta.py,2024-01-08T20:31:14Z,2024-01-08T20:44:00Z,0,False,Python
+https://github.com/Just-for-fun-Developers/Bomberman/pull/29,Linting and Logging,2023-12-09T01:35:05Z,2023-12-12T14:19:59Z,0,False,TypeScript
+https://github.com/code4policy/2024-a4-Transport-and-Walking/pull/33,convert FIPS code to state names with the help of ChatGPT,2024-01-07T23:53:10Z,2024-01-08T00:02:55Z,0,False,JavaScript
+https://github.com/linexjlin/GPTs/pull/43,"feat: add ""tsDoc Generator""",2023-12-14T02:57:19Z,2023-12-14T05:20:22Z,28895,False,
+https://github.com/exchange-wata/next.js14-tailwindcss-udemy-blog/pull/6,エラー表示と型修正,2023-12-13T11:49:46Z,2023-12-16T06:31:16Z,0,False,TypeScript
+https://github.com/linexjlin/GPTs/pull/41,Update YT Summarizer prompt,2023-12-13T04:18:32Z,2023-12-13T13:23:06Z,28895,False,
+https://github.com/siv-org/siv-docs/pull/49,Tweak language referring to Jan 6,2023-12-09T11:17:19Z,2023-12-09T19:42:08Z,0,False,MDX
+https://github.com/altive/handbook/pull/41,DockerfileでHugo_extendedのバージョンを指定してインストールさせる,2024-01-04T06:54:53Z,2024-01-10T07:15:33Z,3,False,HTML
+https://github.com/sveltejs/learn.svelte.dev/pull/522,add aria-role:none to get rid of warning,2023-10-26T14:23:27Z,2023-12-15T20:38:55Z,529,False,Svelte
+https://github.com/Just-for-fun-Developers/Bomberman/pull/28,Add sessions to the game,2023-12-06T01:09:12Z,2023-12-07T14:02:30Z,0,False,TypeScript
+https://github.com/Maxime22/quiz/pull/10,Second try indexeddb tests + time spent,2023-12-04T22:54:00Z,2023-12-06T19:00:15Z,1,False,JavaScript
+https://github.com/pnunn15/nunn_ece495_final/pull/1,Make truly asynchronous,2023-11-27T04:50:58Z,2023-11-27T16:55:15Z,0,False,Python
+https://github.com/EwoutH/World-model-prototype/pull/1,Create initial behavior categories and subcategories,2023-11-25T14:08:09Z,2023-11-25T14:13:35Z,1,False,
+https://github.com/hufscheer/client-v1/pull/119,"[REFACTOR]: 관리자 리그 쿼리, 스크롤락, 리그 삭제 버그픽스",2023-11-30T09:19:13Z,2023-11-30T09:42:16Z,1,False,TypeScript
+https://github.com/andrew-lundy/northwind-mysql/pull/9,Begin work on query to obtain top product in all regions. I asked for…,2023-11-18T02:46:41Z,2023-11-18T02:46:58Z,1,False,Shell
+https://github.com/airicbear/ateez_lyrics/pull/54,"Add ""Don't Stop"" lyrics",2023-11-29T00:21:09Z,2023-11-29T00:21:16Z,1,False,Dart
+https://github.com/instructor-ai/instructor/pull/186,improve documentation Readme,2023-11-16T00:05:22Z,2023-11-16T00:14:49Z,8411,False,Python
+https://github.com/MATRIX-feather/LLin/pull/1,添加翻译,2023-10-13T15:02:58Z,2023-10-15T03:38:13Z,75,False,C#
+https://github.com/axelcoezard/Better-than-Nothing/pull/57,[Renderer] 1st iteration of a in-house Render API,2023-11-14T08:57:06Z,2023-11-20T14:39:17Z,3,False,C++
+https://github.com/fr0gger/Awesome-GPT-Agents/pull/27,Add impacketGPT in README.md,2023-11-15T16:52:42Z,2023-11-15T21:50:05Z,5694,False,
+https://github.com/MartinsOnuoha/what-should-i-design/pull/8,🧹 chore: seeded more problem-statements across different categories …,2023-10-28T10:31:23Z,2023-10-28T10:40:40Z,14,False,Vue
+https://github.com/inculi/Sue/pull/54,Add is_ignored to Models.Chat,2023-10-22T21:41:19Z,2023-10-22T21:41:32Z,30,False,Elixir
+https://github.com/replicate/all-the-public-replicate-models/pull/3,stats!,2023-10-14T05:33:04Z,2023-10-14T05:33:11Z,22,False,JavaScript
+https://github.com/mdn/content/pull/30321,Packets goes _between_ server and client,2023-11-16T23:40:59Z,2023-11-17T05:50:24Z,9244,False,Markdown
+https://github.com/hackforla/CivicTechJobs/pull/477,Fix mkdocs deployment,2023-11-07T22:51:11Z,2023-11-08T00:30:25Z,18,False,TypeScript
+https://github.com/g12-4soat/tech-lanches/pull/66,criando arquivos do k8s + shell de execução unificado,2023-11-20T22:01:37Z,2023-11-24T00:45:20Z,11,False,C#
+https://github.com/usatie/pong/pull/174,[backend] Add access level and password to Room model,2023-12-23T09:25:28Z,2023-12-26T04:53:08Z,2,False,TypeScript
+https://github.com/Regression-Games/RGUnityBots/pull/100,Fix for unneeded path fixing in Windows,2023-11-18T20:30:38Z,2023-11-20T21:04:00Z,7,False,C#
+https://github.com/mlhmz/family-task-tracking/pull/80,Add subtitle instead of lorem ipsum to main page,2023-06-14T15:49:15Z,2023-06-14T18:50:50Z,1,False,TypeScript
+https://github.com/agentcoinorg/evo.ninja/pull/206,prevent script writer from writing recursive scripts,2023-09-25T11:08:34Z,2023-09-25T12:08:29Z,1077,False,TypeScript
+https://github.com/QRTaxi/QRTaxi_Web/pull/29,Refactor: api call 함수 및 webSocket 리팩토링,2023-08-13T09:33:53Z,2023-08-13T09:52:10Z,0,False,TypeScript
+https://github.com/lightward/mechanic-tasks/pull/282,Mark incoming orders automatically Ready For Pick Up,2023-09-26T02:45:00Z,2023-09-26T02:46:24Z,62,False,JavaScript
+https://github.com/tisztamo/Junior/pull/109,Add meta/og tags to docs site https://chat.openai.com/share/a2ac1068-…,2023-09-25T12:16:36Z,2023-09-25T12:16:43Z,22,False,Shell
+https://github.com/alifur-rahman/lc-html/pull/30, Contributer profile page 1,2023-09-28T16:42:50Z,2023-09-28T16:43:02Z,0,False,HTML
+https://github.com/datastax/cassandra/pull/752,include LIMIT count in the calculation for brute force rows,2023-09-19T10:56:22Z,2023-09-19T14:45:06Z,34,True,Java
+https://github.com/cataclysmbnteam/Cataclysm-BN/pull/3130,fix: `open_url` not working on windows,2023-09-11T00:23:53Z,2023-09-11T15:29:26Z,704,False,C++
+https://github.com/TurboWarp/extensions/pull/1035,"Policy on AI (ChatGPT, Bard, etc.)",2023-09-14T03:39:24Z,2023-09-22T14:31:10Z,121,False,JavaScript
+https://github.com/DogeisCut/extensions/pull/2,"Policy on AI (ChatGPT, Bard, etc.) (#1035)",2023-09-22T22:55:15Z,2023-09-22T22:55:20Z,0,True,JavaScript
+https://github.com/DogeisCut/extensions/pull/1,"Policy on AI (ChatGPT, Bard, etc.) (#1035)",2023-09-22T22:54:34Z,2023-09-22T22:54:45Z,0,True,JavaScript
+https://github.com/QRTaxi/QRTaxi_Web/pull/26,Feat: Reconnect websocket 기능 추가,2023-08-12T09:04:29Z,2023-08-12T10:36:40Z,0,False,TypeScript
+https://github.com/justinjeong5/j-chat/pull/1,remove(dep): prop-types,2023-09-09T04:03:10Z,2023-09-09T04:09:04Z,0,False,TypeScript
+https://github.com/brennoflavio/nextcloud-alexa/pull/3,Add German and English translations of intend.json files,2023-09-21T19:02:53Z,2023-09-26T19:27:50Z,2,False,Python
+https://github.com/tisztamo/Junior/pull/63,Preserve directory entries in attention https://chat.openai.com/share…,2023-08-21T11:44:53Z,2023-08-21T11:44:59Z,22,False,Shell
+https://github.com/Sambath-Kumar-M/Portfolio/pull/1,Added nav bar and links,2023-08-26T11:04:17Z,2023-08-26T11:04:28Z,0,False,HTML
+https://github.com/tisztamo/Junior/pull/61,Fix html encoding in generated prompt https://chat.openai.com/share/2…,2023-08-21T09:23:16Z,2023-08-21T09:23:25Z,22,False,Shell
+https://github.com/poki/netlib/pull/50,Postgress doesn't support LIMIT in DELETE,2023-08-21T13:24:13Z,2023-08-21T13:30:48Z,41,False,Go
+https://github.com/ECMaker/blog/pull/24,Feature/#20 noblog/#23-notionデータベースをecmakerに合わせる,2023-07-16T04:07:47Z,2023-07-16T05:04:47Z,0,False,TypeScript
+https://github.com/exa-labs/exa-py/pull/5,fixed incorrect description of type arg in metaphor.search,2023-08-26T21:17:35Z,2023-08-26T21:19:56Z,91,False,Python
+https://github.com/MikaelJG/textract/pull/1,"feat: add keywords support, and more",2023-08-28T18:31:02Z,2023-08-28T19:00:15Z,2,False,Python
+https://github.com/tisztamo/Junior/pull/55,Factor out state-clearing to clearState.js,2023-08-17T09:31:58Z,2023-08-17T09:32:04Z,22,False,Shell
+https://github.com/open-learning-exchange/myplanet/pull/2229,adding French to strings (fixes #2216),2023-07-20T14:16:56Z,2023-07-24T10:20:08Z,24,False,Kotlin
+https://github.com/open-learning-exchange/myplanet/pull/2232,adding Arabic to strings (fixes #2219),2023-07-20T15:56:34Z,2023-07-24T11:44:31Z,24,False,Kotlin
+https://github.com/open-learning-exchange/myplanet/pull/2231,adding Somali to strings (fixes #2218) ,2023-07-20T15:42:24Z,2023-07-24T11:03:58Z,24,False,Kotlin
+https://github.com/daeuniverse/dae/pull/300,docs(en): update how-it-works,2023-08-25T14:35:02Z,2023-08-25T23:59:31Z,3363,False,Go
+https://github.com/open-learning-exchange/myplanet/pull/2230,adding Nepali to strings (fixes #2217),2023-07-20T14:39:08Z,2023-07-24T11:15:05Z,24,False,Kotlin
+https://github.com/tisztamo/Junior/pull/36,35 clean install gives npm err notarget no matching version found for docsify cli447,2023-08-06T19:40:31Z,2023-08-06T19:41:53Z,22,False,Shell
+https://github.com/vizhub-core/vizhub/pull/231,Forking flow,2023-08-08T18:43:21Z,2023-08-09T15:54:48Z,13,False,TypeScript
+https://github.com/SSWConsulting/SSW.Rules.Content/pull/6250,Action points from review with Adam,2023-08-07T13:49:12Z,2023-08-07T19:34:52Z,46,False,JavaScript
+https://github.com/Stivaros/blog/pull/426,feature: add script to set up new posts,2023-07-27T19:18:02Z,2023-07-27T19:19:43Z,1,False,JavaScript
+https://github.com/open-learning-exchange/myplanet/pull/2234,adding more Spanish to strings (fixes #2233),2023-07-20T16:03:45Z,2023-07-24T10:37:09Z,24,False,Kotlin
+https://github.com/PYT-Acadamy/PYT-Acadamy.github.io/pull/20,git und github tutorial ,2023-07-21T21:24:04Z,2023-07-22T14:08:36Z,1,False,HTML
+https://github.com/IararIV/karaok.ai/pull/1,"initial interface, incorrect credentials if we want to add to queue",2023-07-16T12:34:40Z,2023-07-16T12:34:50Z,0,False,
+https://github.com/dantebarbieri/pi-picture-frame/pull/3,Add code from ChatGPT,2023-07-11T02:57:45Z,2023-07-12T02:24:55Z,0,False,Shell
+https://github.com/jojazpeitia/skinguessr/pull/11,added some mathy stuff to keep image size consistent among devices,2023-07-18T07:18:46Z,2023-07-18T07:25:22Z,0,False,TypeScript
+https://github.com/unovue/radix-vue/pull/100,dev: refactor playground to sort components alphabetically.,2023-06-28T16:24:43Z,2023-06-28T16:24:58Z,3741,False,Vue
+https://github.com/GaloyMoney/blink-mobile/pull/2403,feat: use adaptive icons for android app,2023-06-26T19:34:38Z,2023-06-26T19:55:49Z,150,False,TypeScript
+https://github.com/sarcophagus-org/sarcophagus-v2-sdk/pull/23,Fix libp2p error in tests,2023-06-06T20:11:03Z,2023-06-09T19:32:21Z,2,False,TypeScript
+https://github.com/PrivateBin/PrivateBin/pull/1134,Update and create new issue templates for better catgeorisation,2023-08-07T17:24:13Z,2023-08-07T18:31:18Z,6589,False,PHP
+https://github.com/Feijai/Lunar/pull/45,[ feature ] 自訂 Avatar 元件，顯示名字首字和亂數背景色,2023-06-19T16:38:16Z,2023-06-20T01:41:54Z,0,False,TypeScript
+https://github.com/app-sre/qontract-reconcile/pull/3630,[jira-permissions-validator] introduce integration,2023-07-03T11:59:06Z,2023-07-03T12:09:32Z,32,False,Python
+https://github.com/coderdojo-japan/coderdojo.jp/pull/1543,Remove .coffee and use .js in the partial that uses it,2023-07-04T07:36:25Z,2023-07-04T07:47:10Z,61,False,Ruby
+https://github.com/AGnias47/AGnias47.github.io/pull/2,Chatgpt,2023-06-12T00:45:42Z,2023-06-12T00:46:03Z,0,False,HTML
+https://github.com/swarmion/swarmion/pull/678,chore: add release authoring documentation,2023-06-02T14:54:19Z,2023-06-16T20:28:16Z,144,False,TypeScript
+https://github.com/JJConsulting/JJMasterData/pull/131,"bugfix: When downloading a file, <td> is also clicked causing a loading message be endless .",2023-06-07T12:18:16Z,2023-06-09T11:40:12Z,172,False,C#
+https://github.com/labd/terraform-provider-storyblok/pull/9,Improve docs to include examples,2023-06-02T09:31:37Z,2023-06-08T14:10:39Z,2,False,Go
+https://github.com/temporalio/temporal/pull/4558,Make all Go source file names snake case,2023-06-28T19:28:21Z,2023-07-03T18:23:56Z,12186,False,Go
+https://github.com/monarch-initiative/oai-monarch-plugin/pull/39,"basic sim search implemented, gene and disease queries only",2023-06-23T16:25:01Z,2023-06-23T16:25:19Z,13,False,Python
+https://github.com/viets-software-club/truffle-ai-backend/pull/52,[BACK-69] Improving Categories and making them more specific,2023-06-16T07:12:36Z,2023-06-19T06:27:55Z,2,False,TypeScript
+https://github.com/hoshotakamoto/banzukesurfing/pull/11,Get backfilledResults to show non-empty.,2023-07-04T21:34:57Z,2023-07-04T22:01:19Z,0,False,JavaScript
+https://github.com/takumihara/webserv/pull/20,Http Requestのバリデーション強化+例外周りリファクタ,2023-05-27T14:10:48Z,2023-05-28T10:48:26Z,0,False,C++
+https://github.com/jefftriplett/frontmatter-cli/pull/6,Support deep frontmatter property setting using pydash,2023-06-08T13:41:47Z,2023-06-09T02:23:06Z,4,False,Python
+https://github.com/hoshotakamoto/banzukesurfing/pull/14,Integrate the new user.js into game.js and dedupe logic.,2023-07-04T22:30:52Z,2023-07-04T22:55:51Z,0,False,JavaScript
+https://github.com/hoshotakamoto/banzukesurfing/pull/2,Create game.js,2023-07-01T18:33:31Z,2023-07-01T18:38:11Z,0,False,JavaScript
+https://github.com/hoshotakamoto/banzukesurfing/pull/17,Create pick.js,2023-07-05T17:51:37Z,2023-07-05T17:55:20Z,0,False,JavaScript
+https://github.com/tomotakashimizu/todoapp-graphql-go-react/pull/9,Feature/get todos,2023-04-22T10:04:48Z,2023-04-22T10:41:59Z,2,False,TypeScript
+https://github.com/hoshotakamoto/banzukesurfing/pull/6,Update index.html,2023-07-03T16:29:16Z,2023-07-03T16:30:30Z,0,False,JavaScript
+https://github.com/hoshotakamoto/banzukesurfing/pull/13,Move switchUser over to user.js and test it.,2023-07-04T22:17:32Z,2023-07-04T22:27:12Z,0,False,JavaScript
+https://github.com/hoshotakamoto/banzukesurfing/pull/3,Unit Test Setup: jest,2023-07-03T06:44:40Z,2023-07-03T06:47:04Z,0,False,JavaScript
+https://github.com/hoshotakamoto/banzukesurfing/pull/1,Create index.html,2023-07-01T18:29:36Z,2023-07-01T18:30:06Z,0,False,JavaScript
+https://github.com/hoshotakamoto/banzukesurfing/pull/16,Better object model - add wave.js and basho.js,2023-07-05T04:37:54Z,2023-07-05T04:47:07Z,0,False,JavaScript
+https://github.com/hoshotakamoto/banzukesurfing/pull/9,Set up npm test in a github action.,2023-07-04T20:15:49Z,2023-07-04T20:51:29Z,0,False,JavaScript
+https://github.com/hoshotakamoto/banzukesurfing/pull/12,Create user.js and user.test.js,2023-07-04T22:07:17Z,2023-07-04T22:12:35Z,0,False,JavaScript
+https://github.com/hoshotakamoto/banzukesurfing/pull/7,Add more stuff to look at.,2023-07-03T18:44:13Z,2023-07-03T18:52:29Z,0,False,JavaScript
+https://github.com/domeccleston/sharegpt/pull/30,fix: share button missing,2022-12-24T01:18:35Z,2022-12-24T01:48:58Z,1747,False,TypeScript
+https://github.com/hoshotakamoto/banzukesurfing/pull/8,Refactoring for interactivity.,2023-07-03T20:12:31Z,2023-07-03T22:24:54Z,0,False,JavaScript
+https://github.com/hoshotakamoto/banzukesurfing/pull/4,Incorporate local storage to put some state in the game.,2023-07-03T06:57:07Z,2023-07-03T07:34:44Z,0,False,JavaScript
+https://github.com/hoshotakamoto/banzukesurfing/pull/5,Addressing module not defined error in browser.,2023-07-03T15:59:32Z,2023-07-03T16:20:19Z,0,False,JavaScript
+https://github.com/openai/evals/pull/1083,[Eval] Viewport to grid size,2023-06-02T02:53:27Z,2023-07-04T02:05:57Z,15121,False,Python

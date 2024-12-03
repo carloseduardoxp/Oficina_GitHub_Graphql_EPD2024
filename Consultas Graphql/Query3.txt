@@ -1,0 +1,19 @@
+query {
+  search(query: "is:discussion ChatGPT", type: DISCUSSION, first: 5) {
+    edges {
+      node {
+        ... on Discussion {
+          title
+          url
+          createdAt
+          repository {
+            nameWithOwner
+          }
+          category {
+            name
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+query {
+  search(query: "language:Python stars:>50", type: REPOSITORY, first: 5) {
+    edges {
+      node {
+        ... on Repository {
+          name
+          owner {
+            login
+          }
+          stargazerCount
+          url
+        }
+      }
+    }
+  }
+}

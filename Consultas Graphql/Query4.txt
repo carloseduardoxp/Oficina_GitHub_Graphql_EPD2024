@@ -1,0 +1,26 @@
+query {
+    search(query: "chat.openai.com/share is:pr is:merged in:title,body",type: ISSUE,first: 100) {
+		pageInfo {
+			endCursor
+			hasNextPage
+		}
+		issueCount
+		edges {
+			node {
+				... on PullRequest {
+					url
+					title
+					createdAt
+					mergedAt
+                    repository {
+						stargazerCount
+						isFork
+						primaryLanguage {
+							name
+						}
+					}
+				}
+			}
+		}
+	}
+}

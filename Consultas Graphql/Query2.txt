@@ -1,0 +1,17 @@
+query {
+  search(query: "is:issue is:open org:apache duplicate code", type: ISSUE, first: 5) {
+    edges {
+      node {
+        ... on Issue {
+          title
+          bodyText
+          url
+          createdAt
+          repository {
+            nameWithOwner
+          }
+        }
+      }
+    }
+  }
+}
